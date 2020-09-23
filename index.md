@@ -7,3 +7,11 @@
 ## Career Objective
 
 Career Objective For Resume For Fresher In Computer Science Engineer Fresher. To become a successful professional in the field of Information Technology by utilizing my skills and enable further personal and professional development and work towards the prosperity of the organization.
+
+## Education
+
+- Matriculation Passed from Saint Patricks High School
+
+- Intermediate passed from Commecs College PECHS  Kaeachi
+
+- Currently enrolled in Aptech Institude of Computer Education, Shahrah-e-Faisal Center, Karachi.
