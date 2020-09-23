@@ -1,3 +1,1 @@
-# Safwan
-
-## Objective
+# Safwan Farooq
