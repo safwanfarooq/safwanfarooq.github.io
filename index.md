@@ -1,4 +1,4 @@
-!.[MY IMAGE](https://i7.pngguru.com/preview/193/272/31/how-to-draw-batman-joker-drawing-batman-face-the-face-batman.jpg)
+![MY IMAGE](https://i7.pngguru.com/preview/193/272/31/how-to-draw-batman-joker-drawing-batman-face-the-face-batman.jpg)
 # Safwan Farooq
 
 ***Address:** R-901 F.B Area Block-17 Karachi*
