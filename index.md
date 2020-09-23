@@ -1,4 +1,6 @@
 # Safwan Farooq
 
-*R _ 901 F.B Area Block_17 Karachi*
-*safwanfarooq09@gmail.com 03402358096*
+***Address:** R _ 901 F.B Area Block_17 Karachi*
+
+***Email:** safwanfarooq09@gmail.com **Contact:** 03402358096*
+
