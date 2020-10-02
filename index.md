@@ -1,18 +1,37 @@
-![MY IMAGE](https://i7.pngguru.com/preview/193/272/31/how-to-draw-batman-joker-drawing-batman-face-the-face-batman.jpg)
-# Safwan Farooq
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Talal Rizvi</title>
+    </head>
+    <body>
+        <header>
+            <nav>
 
-***Address:** R-901 F.B Area Block-17 Karachi*
+            </nav>
+        </header>
+        <section>
+            
+        <h1>sALMAN WANI Ka KUCH KR</h1>
+        
+        
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates officia debitis, nostrum, eum assumenda maxime mollitia, commodi repudiandae quos minima quis ratione recusandae aliquam nam. Molestias consequuntur quidem eos tempore!&copy;&para;</p>
+        </section>
+        <footer>
+            
+        </footer>
+        
+        <ol>
+            <li>ada</li>
+            <li>fg</li>
+        </ol>
 
-***Email:** safwanfarooq09@gmail.com **Contact:** 03402358096*
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href=about.html">About</a></li>
+            <li><a href="contact.html">contact</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+            
+        </ul>
 
-## Career Objective
-
-Career Objective For Resume For Fresher In Computer Science Engineer Fresher. To become a successful professional in the field of Information Technology by utilizing my skills and enable further personal and professional development and work towards the prosperity of the organization.
-
-## Education
-
-- Matriculation Passed from Saint Patricks High School
-
-- Intermediate passed from Commecs College PECHS  Kaeachi
-
-- Currently enrolled in Aptech Institude of Computer Education, Shahrah-e-Faisal Center, Karachi.
+    </body>
+</html>
